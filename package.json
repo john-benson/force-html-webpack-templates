@@ -1,0 +1,7 @@
+{
+  "name": "force-html-webpack-templates",
+  "version": "0.0.1",
+  "description": "Tempaltes for Force.com Visualforce pages",
+  "author": "John Benson <john.benson@bluespurs.com>",
+  "repo": "github:john-benson/force-html-webpack-templates"
+}
